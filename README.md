@@ -1,4 +1,7 @@
-A simple script to compile the monthly statements provided by Revolut for trading history. It provides the total gain/loss and the total dividend from downloaded pdf statements.
+# Compile Revolut Trading statements
+
+A simple script to compile the monthly statements provided by Revolut for trading history. 
+It provides the total gain/loss and the total dividend from downloaded pdf statements.
 
 Note that: It's not a tax advice.
 
